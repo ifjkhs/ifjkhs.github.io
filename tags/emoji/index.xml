@@ -1,0 +1,21 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>emoji - 标签 - Alex&#39;s blog</title>
+        <link>https://ifjkhs.github.io/tags/emoji/</link>
+        <description>emoji - 标签 - Alex&#39;s blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</lastBuildDate><atom:link href="https://ifjkhs.github.io/tags/emoji/" rel="self" type="application/rss+xml" /><item>
+    <title>Emoji 支持</title>
+    <link>https://ifjkhs.github.io/emoji-support/</link>
+    <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://ifjkhs.github.io/emoji-support/</guid>
+    <description><![CDATA[<p>Emoji 可以通过多种方式在 Hugo 项目中启用.</p>]]></description>
+</item><item>
+    <title>额外若无二无二二额无</title>
+    <link>https://ifjkhs.github.io/nihao/</link>
+    <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://ifjkhs.github.io/nihao/</guid>
+    <description><![CDATA[<p>赛风赛风森森</p>]]></description>
+</item></channel>
+</rss>
