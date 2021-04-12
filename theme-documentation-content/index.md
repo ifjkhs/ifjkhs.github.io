@@ -354,13 +354,5 @@ $$ \ce{Hg^2+ ->[I-] HgI2 ->[I-] [Hg^{II}I4]^2-} $$
 这个方法可以间接解决一个还未解决的 **[Hugo 的 issue](https://github.com/gohugoio/hugo/issues/4978)**.
 {{< /admonition >}}
 
-另一个例子是:
 
-```markdown
-[link{{??}]}(#escape-character)
-```
-
-呈现的输出效果如下:
-
-**[link{?]}(#escape-character)** 而不是 **[link](#escape-character)**.
 
